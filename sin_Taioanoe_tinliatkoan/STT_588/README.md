@@ -1,13 +1,13 @@
 ## YouTube iáⁿphìⁿ kap soatbêng
 
-### Sin Tâi-oân-ōe Tîn-lia̍t-koán (新台灣話陳列館) [588_01]
+### Sin Tâi-oân-ōe Tîn-lia̍t-koán [588_01]
 
 Pún iáⁿphìⁿ lōe-iông sī chhōa-tha̍k "Sin Tâi-oân-ōe Tîn-lia̍t-koán" ê tē-gō͘-phiⁿ.
 
 Bûnhiàn lâigoân: Tâi-ôan Kàu-hōe Kong-pò, [Tē 588 koàn](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png).
 
 
-### Sin Tâi-oân-ōe Tîn-lia̍t-koán (新台灣話陳列館) [588_02]
+### Sin Tâi-oân-ōe Tîn-lia̍t-koán [588_02]
 
 Lán tī chit tè iáⁿphìⁿ lāité, chiamtùi "Sin Tâi-oân-ōe Tîn-lia̍t-koán" ê tē-gō͘-phiⁿ bûnchiuⁿ lōe-iông chò thàmthó.
 
@@ -56,7 +56,27 @@ pōng-chí | [[48936](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=489
 pōng-chí | [[48937](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=48937&dbname=dic&graph=2), [B0906](http://taigi.fhl.net/dict/gm.php?fn=B/B0952.png)] 磅子 | |
 tìm/thìm | [[62536](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=62536&dbname=dic&graph=2), [B0319](http://taigi.fhl.net/dict/gm.php?fn=B/B0365.png)] 頓 | 水台文：[朕](http://sui.tawa.asia/post/156703912351/朕頭-tìm-thâu-tàm-thâu-tòm-thâu-點頭-頷く-頕頭) |
 
+<hr/>
+Iáⁿphìⁿ lāité lēnggōa ê Tâigí jīsû:
 
+Gōagí | Tâigí | 漢 lô | Lâigoân
+---|---|---
+boldface (font) | ióng-pān | 勇-pān |
+download | lo̍h-chài | 落載 |
+link (webpage) | bāng-liān | 網鍊 |
+scan | sûn-khòaⁿ | 巡看 |
+scan (photo, documents...) | sûn-hip | 巡-hip |
+upload | khí-chài | 起載 |
+
+Lēkù:
+* __Ióng-pān__ ê jīthé sòaⁿ-chōa khah chho͘-ióng, sekha̍p the̍h lâi phiau khah tiōng-iàu ê jī-kù.
+* Hit ê iáⁿphìⁿ tòng-àn chiâⁿ tōa, nā beh __lo̍h-chài__ kàu hósè, tio̍h ài tán--chi̍t-khùn-á.
+* Lán chiah-ê chuliāu lóng ū khǹg chiūⁿ bānglō͘, beh ti̍h ê lâng chhiáⁿ tak ēkha ê __bāng-liān__.
+* Iseng līiōng chhiau-impho ê gîkhì teh __sûn-khòaⁿ__ pēⁿlâng ê pak-lāi chōnghú.
+* Chit hūn bûnkiāⁿ ài seng kā i __sûn-hip__--khílâi, liáuāu chiah koh kā chiàⁿpún kià hō͘ tùihong.
+* Góa íkeng kā chuliāu lóng __khí-chài__ kàu ha̍p-iōng ê bānglō͘ khongkan lo͘h, lín nā ū-êng chiah kiámcha khòaⁿ māi.
+
+<hr/>
 ### [keywords]
 
 Tâi-gí, Pe̍h-ōe-jī, POJ, 台語, 白話字, 教羅, Lîm Bō͘-seng, 林茂生
