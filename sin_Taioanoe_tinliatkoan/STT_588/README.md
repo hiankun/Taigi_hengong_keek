@@ -60,7 +60,7 @@ tìm/thìm | [[62536](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=625
 Iáⁿphìⁿ lāité lēnggōa ê Tâigí jīsû:
 
 Gōagí | Tâigí | 漢 lô | Lâigoân
----|---|---
+---|---|---|---
 boldface (font) | ióng-pān | 勇-pān |
 download | lo̍h-chài | 落載 |
 link (webpage) | bāng-liān | 網鍊 |
