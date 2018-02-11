@@ -23,6 +23,7 @@ Pún iáⁿphìⁿ lāité ū kóng--tio̍h ê jīsû lia̍t tī ē-kha:
 Tâigí | TJT | Kîthaⁿ lâigoân | Chùkái
 ---|---|---|---
 __piān-lī__ | [[47695](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=47695&dbname=dic&graph=2), [B0685](http://taigi.fhl.net/dict/gm.php?fn=B/B0731.png)] 便利 | | (日)
+siong-tiàm | [[54089](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=54089&dbname=dic&graph=2), [A0702](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0760.png)] 商店 | | (日)
 lī-piān | [[39041](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=39041&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 利便 | |
 __pia̍t-ku/pia̍t-ki__ (別居) | | |
 chhiú-tong | [[8886](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=8886&dbname=dic&graph=2), [B0146](http://taigi.fhl.net/dict/gm.php?fn=B/B0192.png)] 手當  | | (日)
