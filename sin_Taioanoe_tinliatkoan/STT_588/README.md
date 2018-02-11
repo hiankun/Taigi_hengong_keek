@@ -22,17 +22,21 @@ Pún iáⁿphìⁿ lāité ū kóng--tio̍h ê jīsû lia̍t tī ē-kha:
 
 Tâigí | TJT | Kîthaⁿ lâigoân | Chùkái
 ---|---|---|---
-__piān-lī__ | [[47695](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=47695&dbname=dic&graph=2), [B0685](http://taigi.fhl.net/dict/gm.php?fn=B/B0731.png)] 便利 | | (日)
-siong-tiàm | [[54089](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=54089&dbname=dic&graph=2), [A0702](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0760.png)] 商店 | | (日)
+__piān-lī__ | [[47695](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=47695&dbname=dic&graph=2), [B0685](http://taigi.fhl.net/dict/gm.php?fn=B/B0731.png)] 便利 | | 日:便利、べんり
+siong-tiàm | [[54089](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=54089&dbname=dic&graph=2), [A0702](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0760.png)] 商店 | | 日：商店、しょうてん
 lī-piān | [[39041](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=39041&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 利便 | |
 hong-piān | [[21865](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=21865&dbname=dic&graph=2), [B0839](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=B/B0885.png)] 方便 | |
-__pia̍t-ku/pia̍t-ki__ (別居) | | |
-saⁿ-kap | [[50459](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=50459&dbname=dic&graph=2), [A0535](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0593.png)/[A0536](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0594.png)/[A0705](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0763.png)] 相與* | | 
-chhiú-tong | [[8886](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=8886&dbname=dic&graph=2), [B0146](http://taigi.fhl.net/dict/gm.php?fn=B/B0192.png)] 手當  | | (日)
+__pia̍t-ku/pia̍t-ki__ | | | 日：別居、べっきょ
+saⁿ-kap | [[50459](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=50459&dbname=dic&graph=2), [A0535](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0593.png)/[A0536](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0594.png)/[A0705](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0763.png)] 相與\* | | 
 lî-iân | [[38991](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=38991&dbname=dic&graph=2), [B0969](http://taigi.fhl.net/dict/gm.php?fn=B/B1015.png)] 離緣 | |
 lî-hun | [[39017](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=39017&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 離婚 | |
 [lî](http://taigi.fhl.net/dick/search_can.php?DETAIL=1&LIMIT=id=13516&dbname=dic_can&graph=2)-bó͘ | [[38989](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=38989&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 離妻 | | 
 [lī](http://taigi.fhl.net/dick/search_can.php?DETAIL=1&LIMIT=id=13543&dbname=dic_can&graph=2)-bó͘ | [[39008](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=39008&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 離妻 | | Kap téngbīn hit-ê bô kâng.
+chhiú-tong | [[8886](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=8886&dbname=dic&graph=2), [B0146](http://taigi.fhl.net/dict/gm.php?fn=B/B0192.png)] 手當  | | 日：手当、てあて
+ji̍t-tong | [[26051](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=26051&dbname=dic&graph=2), [A0746](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0804.png)] 日當 | | 日：日当、にっとう
+koán-kok | [[34944](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=34944&dbname=dic&graph=2), [A0450](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0508.png)] 館穀 | |
+su-thiap | [[56496](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=56496&dbname=dic&graph=2), [A0763](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0821.png)/[A0777](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0821.png)] 私貼 | |
+tin-thiap | [[62751](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=62751&dbname=dic&graph=2), [B0318](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=B/B0364.png)] 津貼 | |
 ùi-chià-liāu | [[66067](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=66067&dbname=dic&graph=2), [A0104](http://taigi.fhl.net/dict/gm.php?fn=A/A0162.png)] 慰藉料 | | (日)
 pê-siáu-lóe/pôe-siáu-lé | [[45093](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=45093&dbname=dic&graph=2), [B0773](http://taigi.fhl.net/dict/gm.php?fn=B/B0819.png)/[B0883](http://taigi.fhl.net/dict/gm.php?fn=B/B0929.png)] 賠羞禮 | |
 pê-siông/__pôe-siông__/pêr-siông | [[45094](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=45094&dbname=dic&graph=2), [B0774\*](http://taigi.fhl.net/dict/gm.php?fn=B/B0820.png)/[B0883](http://taigi.fhl.net/dict/gm.php?fn=B/B0929.png)/[B0907](http://taigi.fhl.net/dict/gm.php?fn=B/B0953.png)] 賠償 | | (日)
