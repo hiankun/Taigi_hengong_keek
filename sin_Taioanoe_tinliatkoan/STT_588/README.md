@@ -71,25 +71,26 @@ tìm/thìm | [[62536](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=625
 
 Iáⁿphìⁿ lāité lēnggōa ê Tâigí jīsû:
 
-Gōagí | Tâigí | 漢 lô | Lâigoân
----|---|---|---
-boldface (font) | ióng-pān | 勇-pān | THK
-download | lo̍h-chài | 落載 | ?
-file | thiap | 帖 | Lûi Bêng-hàn
-link (webpage) | bāng-liān | 網鍊 | Lōa Êngtio̍k
-scan | sûn-khòaⁿ | 巡看 | THK
-scan (photo, documents...) | sûn-hip | 巡-hip | THK
-YouTube | Iú-thiú/ Lí-kóng# | 友丑/ 汝管(講) | THK (# gia̍t-á e̍k)
-upload | khí-chài | 起載 | ?
+| Gōagí | Tâigí | 漢 lô | Lâigoân
+---|---|---|---|---
+1. |boldface (font) | ióng-pān | 勇-pān | THK
+2. |download | lo̍h-chài | 落載 | ?
+3. |file | thiap | 帖 | Lûi Bêng-Hàn
+4. |link (webpage) | bāng-liān | 網鍊 | Lōa Êngtio̍k
+5. |scan | sûn-khòaⁿ | 巡看 | THK
+6. |scan (photo, documents...) | sûn-hip | 巡-hip | THK
+7. |YouTube | Iú-thiú/ Lí-kóng# | 友丑/ 汝管(講) | THK (# gia̍t-á e̍k)
+8. |upload | khí-chài | 起載 | ?
 
 Lēkù:
-* __Ióng-pān__ ê jīthé sòaⁿ-chōa khah chho͘-ióng, sekha̍p the̍h lâi phiau khah tiōng-iàu ê jī-kù.
-* Hit tè iáⁿphìⁿ chiâⁿ tōa, nā beh __lo̍h-chài__ kàu hósè, tio̍h ài tán--chi̍t-khùn-á.
-* Lán chiah-ê chuliāu lóng ū khǹg chiūⁿ bānglō͘, beh ti̍h ê lâng chhiáⁿ tak ēkha ê __bāng-liān__.
-* Iseng līiōng chhiauimpho ê gîkhì teh __sûn-khòaⁿ__ pēⁿlâng ê pak-lāi chōnghú.
-* Chit hūn bûnkiāⁿ tio̍h seng kai __sûn-hip__--khílâi, bián tit chiàⁿpún nā phàngkìⁿ tiō bô tè chhōe.
-* __Iú-thiú__ ê Enggí m̄ sī tha̍k chò "Iú-thū-pí".
-* Góa íkeng kā chuliāu lóng __khí-chài__ kàu ha̍p-iōng ê bānglō͘ khongkan lo͘h, lín nā ū-êng chiah kiámcha khòaⁿ māi.
+1. __Ióng-pān__ ê jīthé sòaⁿ-chōa khah chho͘-ióng, sekha̍p the̍h lâi phiau khah tiōng-iàu ê jī-kù.
+2. Hit tè iáⁿphìⁿ chiâⁿ tōa, nā beh __lo̍h-chài__ kàu hósè, tio̍h ài tán--chi̍t-khùn-á.
+3. Chit ê siòngphìⁿ __thiap__ chhiaukòe 300 Mékah, góa che tiānnáu lāu-kó͘tóng, cháu bô-hoat lah.
+4. Lán chiah-ê chuliāu lóng ū khǹg chiūⁿ bānglō͘, beh ti̍h ê lâng chhiáⁿ tak ēkha ê __bāng-liān__.
+5. Iseng līiōng chhiauimpho ê gîkhì teh __sûn-khòaⁿ__ pēⁿlâng ê pak-lāi chōnghú.
+6. Chit hūn bûnkiāⁿ tio̍h seng kai __sûn-hip__--khílâi, bián tit chiàⁿpún nā phàngkìⁿ tiō bô tè chhōe.
+7. __Iú-thiú__ ê Enggí m̄ sī tha̍k chò "Iú-thū-pí".
+8. Góa íkeng kā chuliāu lóng __khí-chài__ kàu ha̍p-iōng ê bānglō͘ khongkan lo͘h, lín nā ū-êng chiah kiámcha khòaⁿ māi.
 
 <hr/>
 
