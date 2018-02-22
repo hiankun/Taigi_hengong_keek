@@ -73,14 +73,14 @@ Iáⁿphìⁿ lāité lēnggōa ê Tâigí jīsû:
 
 \# | Gōagí | Tâigí | 漢 lô | Lâigoân
 ---|---|---|---|---
-1. |boldface (font) | ióng-pān | 勇-pān | THK
-2. |download | lo̍h-chài | 落載 | ?
-3. |file | thiap | 帖 | Lûi Bêng-Hàn
-4. |link (webpage) | bāng-liān | 網鍊 | Lōa Êngtio̍k
-5. |scan | sûn-khòaⁿ | 巡看 | THK
-6. |scan (photo, documents...) | sûn-hip | 巡-hip | THK
-7. |YouTube | Iú-thiú/ Lí-kóng# | 友丑/ 汝管(講) | THK (# gia̍t-á e̍k)
-8. |upload | khí-chài | 起載 | ?
+1 |boldface (font) | ióng-pān | 勇-pān | THK
+2 |download | lo̍h-chài | 落載 | ?
+3 |file | thiap | 帖 | Lûi Bêng-Hàn
+4 |link (webpage) | bāng-liān | 網鍊 | Lōa Êngtio̍k
+5 |scan | sûn-khòaⁿ | 巡看 | THK
+6 |scan (photo, documents...) | sûn-hip | 巡-hip | THK
+7 |YouTube | Iú-thiú/ Lí-kóng# | 友丑/ 汝管(講) | THK (# gia̍t-á e̍k)
+8 |upload | khí-chài | 起載 | ?
 
 Lēkù:
 1. __Ióng-pān__ ê jīthé sòaⁿ-chōa khah chho͘-ióng, sekha̍p the̍h lâi phiau khah tiōng-iàu ê jī-kù.
