@@ -79,7 +79,7 @@ Iáⁿphìⁿ lāité lēnggōa ê Tâigí jīsû:
 1 |boldface (font) | ióng-pān | 勇-pān | thk
 2 |download | lo̍h-chài | 落載 | ?
 3 |link (webpage) | bāng-liān | 網鍊 | Lōa Êngtio̍k
-4 |scan | sûn-khòaⁿ | 巡看 | THK
+4 |scan | sûn-khòaⁿ | 巡看 | thk
 5 |scan (photo, documents...) | sûn-hip | 巡-hip | thk
 6 |YouTube | Iú-thiú/ Lí-kóng# | 友丑/ 汝管(講)# | thk (# gia̍t-á e̍k)
 7 |upload | khí-chài | 起載 | ?
