@@ -71,15 +71,15 @@ tìm/thìm | [[62536](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=625
 
 Iáⁿphìⁿ lāité lēnggōa ê Tâigí jīsû:
 
-\# | Gōagí | Tâigí | 漢 lô | Lâigoân
+&nbsp; | Gōagí | Tâigí | 漢 lô | Lâigoân
 ---|---|---|---|---
-1 |boldface (font) | ióng-pān | 勇-pān | THK
+1 |boldface (font) | ióng-pān | 勇-pān | thk
 2 |download | lo̍h-chài | 落載 | ?
 3 |file | thiap | 帖 | Lûi Bêng-Hàn
 4 |link (webpage) | bāng-liān | 網鍊 | Lōa Êngtio̍k
 5 |scan | sûn-khòaⁿ | 巡看 | THK
-6 |scan (photo, documents...) | sûn-hip | 巡-hip | THK
-7 |YouTube | Iú-thiú/ Lí-kóng# | 友丑/ 汝管(講) | THK (# gia̍t-á e̍k)
+6 |scan (photo, documents...) | sûn-hip | 巡-hip | thk
+7 |YouTube | Iú-thiú/ Lí-kóng# | 友丑/ 汝管(講)# | thk (# gia̍t-á e̍k)
 8 |upload | khí-chài | 起載 | ?
 
 Lēkù:
