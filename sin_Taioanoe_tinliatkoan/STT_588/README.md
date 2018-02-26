@@ -51,7 +51,7 @@ chū-lâi-chíⁿ | [[14597](http://minhakka.ling.sinica.edu.tw/taijittian/searc
 chū-lâi-hé/chū-lâi-hóe | [[14599](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=14599&dbname=dic&graph=2), [B0348](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=B/B0394.png)] 自來火 | |
 chū-lâi-pit | [[14600](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=14600&dbname=dic&graph=2), [B0348](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=B/B0394.png)] 自來筆 | |
 sún-hoāi | [[56310](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=56310&dbname=dic&graph=2), [A0771](http://taigi.fhl.net/dict/gm.php?fn=A/A0829.png)] 損壞 | |
-sńg-hāi | [[54820](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=54820&dbname=dic&graph=2), [A0774](http://taigi.fhl.net/dict/gm.php?fn=A/A0832.png)] 戱\*害 | |
+sńg-hāi | [[54820](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=54820&dbname=dic&graph=2), [A0774](http://taigi.fhl.net/dict/gm.php?fn=A/A0832.png)] 戱\*害 | | 悪戯して毀[壊]す。Mischiev[f] and break.
 sńg-tn̄g | [[54829](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=54829&dbname=dic&graph=2), [A0774*](http://taigi.fhl.net/dict/gm.php?fn=A/A0832.png)] 損斷 | |
 __poa̍t-te̍k__ (拔擢) | | |
 ko-seng/ko͘-seng | [[36231](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=36231&dbname=dic&graph=2), [A0486](http://taigi.fhl.net/dict/gm.php?fn=A/A0544.png)/[A0472](http://taigi.fhl.net/dict/gm.php?fn=A/A0530.png)] 高陞\* | |
@@ -69,6 +69,12 @@ tâng-phàu-chí | [[57371](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=
 pōng-chí | [[48936](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=48936&dbname=dic&graph=2), [B0906](http://taigi.fhl.net/dict/gm.php?fn=B/B0952.png)] 唪子 | |
 pōng-chí | [[48937](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=48937&dbname=dic&graph=2), [B0906](http://taigi.fhl.net/dict/gm.php?fn=B/B0952.png)] 磅子 | |
 tìm/thìm | [[62536](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=62536&dbname=dic&graph=2), [B0319](http://taigi.fhl.net/dict/gm.php?fn=B/B0365.png)] 頓 | 水台文：[朕](http://sui.tawa.asia/post/156703912351/朕頭-tìm-thâu-tàm-thâu-tòm-thâu-點頭-頷く-頕頭) |
+
+<hr/>
+Kîtha su-iàu khaktēng ê jīsû:
+
+* 離: __lî__ kap __lī__ kám ū bô kâng ê ìsù kap iōnghoat?
+* 彈: __tôaⁿ__ kap __tân__ kám ū bô kâng ê ìsù kap iōnghoat?
 
 <hr/>
 
