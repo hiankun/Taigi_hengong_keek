@@ -54,6 +54,7 @@ sún-hoāi | [[56310](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=563
 sńg-hāi | [[54820](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=54820&dbname=dic&graph=2), [A0774](http://taigi.fhl.net/dict/gm.php?fn=A/A0832.png)] 戱\*害 | | 悪戯して毀[壊]す。Mischiev[f] and break.
 sńg-tn̄g | [[54829](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=54829&dbname=dic&graph=2), [A0774*](http://taigi.fhl.net/dict/gm.php?fn=A/A0832.png)] 損斷 | |
 __poa̍t-te̍k__ (拔擢) | | |
+thê-poa̍t | [[59838](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=59838&dbname=dic&graph=2), [B0416](http://taigi.fhl.net/dict/gm.php?fn=B/B0462.png)] 提拔 | |
 ko-seng/ko͘-seng | [[36231](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=36231&dbname=dic&graph=2), [A0486](http://taigi.fhl.net/dict/gm.php?fn=A/A0544.png)/[A0472](http://taigi.fhl.net/dict/gm.php?fn=A/A0530.png)] 高陞\* | |
 chiòng-kàu[?] | | KJT | Khólêng sī "chiòng-__hāu__ (將校)". __校__ ū [kàu](http://taigi.fhl.net/dick/search_can.php?DETAIL=1&LIMIT=id=9272&dbname=dic_can&graph=2) ê im, m̄koh ìsù ná-chhiūⁿ kap [hāu](http://taigi.fhl.net/dick/search_can.php?DETAIL=1&LIMIT=id=5118&dbname=dic_can&graph=2) bô-kâng.
 __poa̍t-chūi__ (拔萃) | | |
