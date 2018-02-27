@@ -1,13 +1,13 @@
 ## YouTube iáⁿphìⁿ kap soatbêng
 
-### Sin Tâi-oân-ōe Tîn-lia̍t-koán [588_01]
+### [Sin Tâi-oân-ōe Tîn-lia̍t-koán [588_01]](https://youtu.be/a93znv3D1iQ)
 
 Pún iáⁿphìⁿ lōe-iông sī chhōa-tha̍k "Sin Tâi-oân-ōe Tîn-lia̍t-koán" ê tē-gō͘-phiⁿ.
 
 Bûnhiàn lâigoân: Tâi-ôan Kàu-hōe Kong-pò, [Tē 588 koàn](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png).
 
 
-### Sin Tâi-oân-ōe Tîn-lia̍t-koán [588_02]
+### [Sin Tâi-oân-ōe Tîn-lia̍t-koán [588_02]](https://youtu.be/0fxahrqNwcU)
 
 Lán tī chit tè iáⁿphìⁿ lāité, chiamtùi "Sin Tâi-oân-ōe Tîn-lia̍t-koán" ê tē-gō͘-phiⁿ bûnchiuⁿ lōe-iông chò thàmthó.
 
@@ -22,8 +22,8 @@ Pún iáⁿphìⁿ lāité ū kóng--tio̍h ê jīsû lia̍t tī ē-kha:
 
 Tâigí | TJT | Kîthaⁿ lâigoân | Chùkái
 ---|---|---|---
-__piān-lī__ | [[47695](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=47695&dbname=dic&graph=2), [B0685](http://taigi.fhl.net/dict/gm.php?fn=B/B0731.png)] 便利 | | 日:便利、べんり
-siong-tiàm | [[54089](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=54089&dbname=dic&graph=2), [A0702](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0760.png)] 商店 | | 日：商店、しょうてん
+__piān-lī__ | [[47695](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=47695&dbname=dic&graph=2), [B0685](http://taigi.fhl.net/dict/gm.php?fn=B/B0731.png)] 便利 | | (日) 便利、べんり
+siong-tiàm | [[54089](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=54089&dbname=dic&graph=2), [A0702](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0760.png)] 商店 | | (日) 商店、しょうてん
 lī-piān | [[39041](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=39041&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 利便 | |
 kám-á-tiàm/kám-má-tiàm| [[26811](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=26811&dbname=dic&graph=2), [A0219](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0277.png)/[A0224](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0282.png)] 𥴊\*仔店 | | 日用の雑貨を賣る店または乾物商。Store selling general merchandise for daily use or dry merchandise.
 kám-á-tiàm-hè | [[26812](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=26812&dbname=dic&graph=2), [A0219](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0277.png)] 𥴊\*仔店貨 | | 乾物雑貨或は荒物等の類。Dry goods or sundries etc.
@@ -36,12 +36,12 @@ lî-iân | [[38991](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=38991
 lî-hun | [[39017](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=39017&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 離婚 | |
 [lî](http://taigi.fhl.net/dick/search_can.php?DETAIL=1&LIMIT=id=13516&dbname=dic_can&graph=2)-bó͘ | [[38989](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=38989&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 離妻 | | 
 [lī](http://taigi.fhl.net/dick/search_can.php?DETAIL=1&LIMIT=id=13543&dbname=dic_can&graph=2)-bó͘ | [[39008](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=39008&dbname=dic&graph=2), [B0972](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png)] 離妻 | | Kap téngbīn hit-ê bô kâng.
-chhiú-tong | [[8886](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=8886&dbname=dic&graph=2), [B0146](http://taigi.fhl.net/dict/gm.php?fn=B/B0192.png)] 手當  | | 日：手当、てあて
-ji̍t-tong | [[26051](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=26051&dbname=dic&graph=2), [A0746](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0804.png)] 日當 | | 日：日当、にっとう。Daily allowance.
+chhiú-tong | [[8886](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=8886&dbname=dic&graph=2), [B0146](http://taigi.fhl.net/dict/gm.php?fn=B/B0192.png)] 手當  | | (日) 手当、てあて
+ji̍t-tong | [[26051](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=26051&dbname=dic&graph=2), [A0746](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0804.png)] 日當 | | (日) 日当、にっとう。Daily allowance.
 koán-kok | [[34944](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=34944&dbname=dic&graph=2), [A0450](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0508.png)] 館穀 | |
 su-thiap | [[56496](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=56496&dbname=dic&graph=2), [A0763](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0821.png)/[A0777](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=A/A0821.png)] 私貼 | |
 tin-thiap | [[62751](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=62751&dbname=dic&graph=2), [B0318](http://minhakka.ling.sinica.edu.tw/taijittian/gm.php?fn=B/B0364.png)] 津貼 | |
-ùi-chià-liāu | [[66067](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=66067&dbname=dic&graph=2), [A0104](http://taigi.fhl.net/dict/gm.php?fn=A/A0162.png)] 慰藉料 | | 日：慰謝料、いしゃりょう
+ùi-chià-liāu | [[66067](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=66067&dbname=dic&graph=2), [A0104](http://taigi.fhl.net/dict/gm.php?fn=A/A0162.png)] 慰藉料 | | (日) 慰謝料、いしゃりょう
 pê-siáu-lóe/pôe-siáu-lé | [[45093](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=45093&dbname=dic&graph=2), [B0773](http://taigi.fhl.net/dict/gm.php?fn=B/B0819.png)/[B0883](http://taigi.fhl.net/dict/gm.php?fn=B/B0929.png)] 賠羞禮 | |
 pê-siông/__pôe-siông__/pêr-siông | [[45094](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=45094&dbname=dic&graph=2), [B0774\*](http://taigi.fhl.net/dict/gm.php?fn=B/B0820.png)/[B0883](http://taigi.fhl.net/dict/gm.php?fn=B/B0929.png)/[B0907](http://taigi.fhl.net/dict/gm.php?fn=B/B0953.png)] 賠償 | | (日)
 pê-kêng/pêr-kêng | [[45084](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=45084&dbname=dic&graph=2), [B0772\*](http://taigi.fhl.net/dict/gm.php?fn=B/B0818.png)/[B0907](http://taigi.fhl.net/dict/gm.php?fn=B/B0953.png)] 賠窮 | |
@@ -66,7 +66,7 @@ __phok-hoat__[?] (爆發) | | | 爆 jī tī jītián, sûtián lóng kanna ū "p
 kun-chong-kio̍k | [[37333](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=37333&dbname=dic&graph=2), [A0382](http://taigi.fhl.net/dict/gm.php?fn=A/A0440.png)] 軍裝局 | |
 kun-chong | [[37332](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=37332&dbname=dic&graph=2), [A0382](http://taigi.fhl.net/dict/gm.php?fn=A/A0440.png)] 軍裝 | |
 __phok-lia̍t-tân__[?] | pho̍k-lia̍t-tân [[47126](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=47126&dbname=dic&graph=2), [B0904\*](http://taigi.fhl.net/dict/gm.php?fn=B/B0950.png)] 爆裂彈 | | (日)
-tâng-phàu-chí | [[57371](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=57371&dbname=dic&graph=2), [B0064](http://taigi.fhl.net/dict/gm.php?fn=B/B0110.png)] 銅炮\*子 | | 
+tâng-phàu-chí[?] | [[57371](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=57371&dbname=dic&graph=2), [B0064](http://taigi.fhl.net/dict/gm.php?fn=B/B0110.png)] 銅炮\*子 | | 
 pōng-chí | [[48936](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=48936&dbname=dic&graph=2), [B0906](http://taigi.fhl.net/dict/gm.php?fn=B/B0952.png)] 唪子 | |
 pōng-chí | [[48937](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=48937&dbname=dic&graph=2), [B0906](http://taigi.fhl.net/dict/gm.php?fn=B/B0952.png)] 磅子 | |
 tìm/thìm | [[62536](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=62536&dbname=dic&graph=2), [B0319](http://taigi.fhl.net/dict/gm.php?fn=B/B0365.png)] 頓 | 水台文：[朕](http://sui.tawa.asia/post/156703912351/朕頭-tìm-thâu-tàm-thâu-tòm-thâu-點頭-頷く-頕頭) |
