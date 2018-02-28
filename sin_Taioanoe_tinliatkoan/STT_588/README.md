@@ -4,14 +4,14 @@
 
 Pún iáⁿphìⁿ lōe-iông sī chhōa-tha̍k "Sin Tâi-oân-ōe Tîn-lia̍t-koán" ê tē-gō͘-phiⁿ.
 
-Bûnhiàn lâigoân: Tâi-ôan Kàu-hōe Kong-pò, [Tē 588 koàn](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png).
+Bûnhiàn lâigoân: Tâi-ôan Kàu-hōe Kong-pò, [Tē 588 koàn](http://210.240.194.97/memory/TGB/thak.asp?id=789&page=10).
 
 
 ### [Sin Tâi-oân-ōe Tîn-lia̍t-koán [588_02]](https://youtu.be/0fxahrqNwcU)
 
 Lán tī chit tè iáⁿphìⁿ lāité, chiamtùi "Sin Tâi-oân-ōe Tîn-lia̍t-koán" ê tē-gō͘-phiⁿ bûnchiuⁿ lōe-iông chò thàmthó.
 
-Bûnhiàn lâigoân: Tâi-ôan Kàu-hōe Kong-pò, [Tē 588 koàn](http://taigi.fhl.net/dict/gm.php?fn=B/B1018.png).
+Bûnhiàn lâigoân: Tâi-ôan Kàu-hōe Kong-pò, [Tē 588 koàn](http://210.240.194.97/memory/TGB/thak.asp?id=789&page=10).
 
 <hr/>
 
